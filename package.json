@@ -12,7 +12,7 @@
   "author": "George Cheng <Gerhut@GMail.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.2.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-http-proxy": "^1.6.0",
